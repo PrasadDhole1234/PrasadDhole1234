@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Smart Retail Analytics Project**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 🤝 I’m looking for help with **Python and Java**
 
