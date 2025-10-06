@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="https://www.icubelearning.com/project/FSWD714/website13/ban2.gif" alt="Banner" style="border-radius: 15px;"  />
+  <img src="https://www.icubelearning.com/project/FSWD714/website13/ban2.gif"
+     alt="Banner"
+     style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" />
 </p>
 <h1 align="center">Hi 👋, I'm Prasad Dhole</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif">
-
+<img align="right" alt="Coding" width="400"
+     src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif"
+     style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+     
 - 🔭 I’m currently working on **Smart Retail Analytics Project**
 
 - 🌱 I’m currently learning **Agentic AI**
