@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.icubelearning.com/project/FSWD714/website13/ban2.gif" alt="Banner" />
+  <img src="https://www.icubelearning.com/project/FSWD714/website13/ban2.gif" alt="Banner" style="border-radius: 15px;"  />
 </p>
 <h1 align="center">Hi 👋, I'm Prasad Dhole</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
